@@ -1,0 +1,10 @@
+mapreduce job.setOutputFormatClass
+awk
+
+kettle
+
+python
+
+算法
+
+多线程
